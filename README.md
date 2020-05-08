@@ -1,4 +1,4 @@
-# AmazingJS
+# Cool Components
 ## Repository for component library with React
 ![Image components made with React](https://uploads.toptal.io/blog/image/129144/toptal-blog-image-1550483251362-76ef921666d84b4f8437e4865414ebd6.png);
 (Image taken from Google)
